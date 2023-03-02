@@ -7,8 +7,7 @@
       android:exported="false"
       android:configChanges="orientation|screenSize"
       android:hardwareAccelerated="false"
-      android:theme="@style/ZMTheme.SubWindow"
-      android:screenOrientation="portrait" />
+      android:theme="@style/ZMTheme.SubWindow"/>
   </application>
 
 </manifest>
